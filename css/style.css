@@ -1,0 +1,330 @@
+.headera .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.logo .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.portfolio .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.apps .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.service .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.website .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.headera
+{
+	background-color:lightgray;
+	height:81px;
+}
+.headera .headera-fc
+{
+	display:flex;
+	justify-content:space-between;	
+}
+.headera .headera-fc .heada
+{
+	background-color:plum;
+	height:50px;
+	width:30%;
+	margin-top:10px;
+}
+.headera .headera-fc .hcon
+{
+	background-color:lightgray;
+	height:81px;
+	width:50%;
+	display:flex;
+	justify-content:space-evenly;
+}
+.headera .headera-fc .hcon .headb
+{
+	background-color:plum;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.headera .headera-fc .hcon .headc
+{
+	background-color:plum;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.headera .headera-fc .hcon .headd
+{
+	background-color:plum;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.headera .headera-fc .hcon .heade
+{
+	background-color:plum;
+	height:40px;
+	width:15%;
+	margin-top:15px;
+}
+.logo 
+{
+	background-color:lightskyblue;
+	height:500px;
+}
+.logo .logo-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:center;	
+}
+.logo .logo-fc .logob
+{
+	text-align:center;
+	width:100%;
+	margin-top:100px;
+}
+.logo .logo-fc .logotexta
+{
+	background-color:white;
+	height:50px;
+	width:20%;
+	margin-top:100px;
+}
+.logo .logo-fc .logotextb
+{
+	background-color:blue;
+	height:50px;
+	width:20%;
+	margin-top:100px;	
+}
+.portfolio
+{
+	background-color:steelblue;
+	height:450px;
+}
+.portfolio .portfolio-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:center;
+}
+.portfolio .portfolio-fc .porta
+{
+	background-color:blue;
+	height:280px;
+	width:13%;
+	margin-top:100px;
+}
+.portfolio .portfolio-fc .portb
+{
+	background-color:purple;
+	height:295px;
+	width:13%;
+	margin-top:85px;
+}
+.portfolio .portfolio-fc .portc
+{
+	background-color:plum;
+	height:310px;
+	width:13%;
+	margin-top:71px;
+}
+.portfolio .portfolio-fc .portd
+{
+	background-color:purple;
+	height:350px;
+	width:13%;
+	margin-top:30px;
+}
+.portfolio .portfolio-fc .porte
+{
+	background-color:plum;
+	height:310px;
+	width:13%;
+	margin-top:71px;
+}
+.portfolio .portfolio-fc .portf
+{
+	background-color:purple;
+	height:295px;
+	width:13%;
+	margin-top:85px;
+}
+.portfolio .portfolio-fc .portg
+{
+	background-color:blue;
+	height:280px;
+	width:13%;
+	margin-top:100px;
+}
+.apps 
+{
+	background-color:lightgray;
+	height:250px;
+}
+.apps .apps-fc 
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+    justify-content:space-evenly;
+	align-items:center;
+}
+.apps .apps-fc .app
+{
+	background-color:lime;
+	height:75px;
+	width:100%;
+	margin-top:20px;
+}
+.apps .apps-fc .appa
+{
+	background-color:blue;
+	height:60px;
+	width:18%;
+	margin-top:20px;
+}
+
+.apps .apps-fc .appb
+{
+	background-color:white;
+	height:60px;
+	width:18%;
+	margin-top:20px;
+}
+.apps .apps-fc .appc
+{
+	background-color:blue;
+	height:60px;
+	width:18%;
+	margin-top:20px;
+}
+.apps .apps-fc .appd
+{
+	background-color:white;
+	height:60px;
+	width:18%;
+	margin-top:20px;
+}
+.service
+{
+	background-color:gray;
+	height:604px;
+}
+.service .service-fc
+{
+	display:flex;
+	justify-content:space-between;
+	flex-direction:row;
+	flex-wrap:wrap;
+}
+.service .service-fc .ser
+{
+	text-align:center;
+	margin-top:50px;
+	width:100%
+}
+.service .service-fc .tempa 
+{
+	background-color:white;
+	height:200px;
+	width:23%;
+	margin-top:15px;
+}
+.service .service-fc .tempb
+{
+	background-color:blue;
+	height:200px;
+	width:23%;
+	margin-top:15px;
+}
+.service .service-fc .tempc
+{
+	background-color:white;
+	height:200px;
+	width:23%;
+	margin-top:15px;
+}
+.service .service-fc .tempd
+{
+	background-color:blue;
+	height:200px;
+	width:23%;
+	margin-top:15px;
+}
+.service .service-fc .tempd
+{
+	background-color:blue;
+	height:200px;
+	width:23%;
+	margin-top:15px;
+}
+.service .service-fc .tempe
+{
+	background-color:blue;
+	height:200px;
+	width:23%;
+	margin-top:15px;
+}
+.service .service-fc .tempf
+{
+	background-color:white;
+	height:200px;
+	width:23%;
+	margin-top:15px;
+}
+.service .service-fc .tempg
+{
+	background-color:blue;
+	height:200px;
+	width:23%;
+	margin-top:15px;
+}
+.service .service-fc .temph
+{
+	background-color:white;
+	height:200px;
+	width:23%;
+	margin-top:15px;
+}
+.website
+{
+	background-color:blue;
+	height:100px;
+}
+.website .website-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.website .website-fc .copyrighta
+{
+	background-color:white;
+	width:15%;
+	height:35px;
+	margin-top:50px;
+}
+.website .website-fc .copyrightb
+{
+	background-color:white;
+	width:20%;
+	height:35px;
+	margin-top:50px;
+}
